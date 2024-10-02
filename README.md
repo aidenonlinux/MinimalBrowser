@@ -7,3 +7,7 @@ When that is installed make sure you have IDLE or VSCode or anything that uses P
 Export the .py file into your window or Python.
 And debug (click run and then "Start Debugging") and hit "Run without debugging" (in the "run" menu)
 Thanks for using MinimalBrowser.
+
+# WARNING 
+This is made by an beginning coder.
+So when its awful, its not my problem because credits to @NeuralNine.
