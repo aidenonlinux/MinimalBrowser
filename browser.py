@@ -41,7 +41,7 @@ class MyWebBrowser():
         self.layout.addLayout(self.horizantal)
         self.layout.addWidget(self.browser)
 
-        self.browser.setUrl(QUrl("http://google.com"))
+        self.browser.setUrl(QUrl("https://minimal-browser.weebly.com/landing-page-browser.html"))
 
         self.window.setLayout(self.layout)
         self.window.show()
